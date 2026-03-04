@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Software engineer with 8+ years of experience building scalable backend systems and full-stack applications using Java, Python, and modern cloud technologies. Experienced in designing microservices, APIs, and distributed systems.
+
+Backend: Java, Spring Boot, Python, FastAPI  
+Frontend: React, JavaScript, HTML, CSS  
+Databases: PostgreSQL, MySQL, MongoDB  
+Cloud: AWS, Docker, Kubernetes  
+Tools: Git, CI/CD, Kafka, Redis
