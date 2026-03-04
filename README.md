@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Namrata 👋  
+Senior Full Stack Developer | Java | Python | Cloud | Distributed Systems
 
 <!--
 **sudarsi-namrata/sudarsi-namrata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Software engineer with 8+ years of experience building scalable backend systems and full-stack applications using Java, Python, and modern cloud technologies. Experienced in designing microservices, APIs, and distributed systems.
